@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "65068a5217af3ae4",
+        "id": "6c543cc096dd20d5",
         "type": "tabs",
         "children": [
           {
-            "id": "536cc3c920d38f0b",
+            "id": "37877e9af6c5e65e",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "/"
+              }
+            }
+          },
+          {
+            "id": "65aecf8d94059806",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shell/命令.md",
-                "mode": "preview",
+                "file": "bgcode.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell/命令.md",
+                "file": "bgcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shell/命令.md",
+                "file": "bgcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell/命令.md"
+                "file": "bgcode.md"
               }
             }
           },
@@ -162,14 +173,16 @@
       "command-palette:打开命令面板": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
-      "cmdr:Git: Push": false
+      "cmdr:Shell commands: Execute: ec": false
     }
   },
-  "active": "536cc3c920d38f0b",
+  "active": "65aecf8d94059806",
   "lastOpenFiles": [
+    "Home.md",
+    "bgcode.md",
+    "Tags",
     "Shell/date.md",
     "Shell/命令.md",
-    "Tags",
     "Shell/编程.md",
     "Resource/Src/328.jpg",
     "Resource/Src",
@@ -177,7 +190,6 @@
     "GO/day1.md",
     "Tags/Tags.md",
     "Untitled.md",
-    "Home.md",
     "2024-04-25.md",
     "Shell/cat.md",
     "Shell/cd.md",

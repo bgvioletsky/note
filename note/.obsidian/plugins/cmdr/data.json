@@ -1,16 +1,15 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
   "leftRibbon": [
     {
-      "id": "obsidian-git:push2",
+      "id": "obsidian-shellcommands:shell-command-0tpmvlunwj",
       "icon": "arrow-up-circle",
-      "name": "Git: Push",
-      "mode": "any",
-      "color": "#c8b7b7"
+      "name": "Shell commands: Execute: ec",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],
@@ -28,7 +27,10 @@
   "explorer": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [
+      "Templater",
+      "Git: Push"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {

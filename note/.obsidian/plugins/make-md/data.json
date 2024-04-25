@@ -38,12 +38,12 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "//Application",
-    "/",
     "//Tags",
     "//Tags",
     "//Tags",
     "//Tags",
-    "//Tags"
+    "//Tags",
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

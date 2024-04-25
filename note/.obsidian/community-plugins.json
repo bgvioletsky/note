@@ -7,5 +7,6 @@
   "templater-obsidian",
   "cmdr",
   "colored-tags",
-  "make-md"
+  "make-md",
+  "obsidian-shellcommands"
 ]
