@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shell/mv.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell/mv.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shell/mv.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell/mv.md"
+                "file": "Home.md"
               }
             }
           },
@@ -167,42 +167,42 @@
   },
   "active": "37877e9af6c5e65e",
   "lastOpenFiles": [
-    "Shell/mv~.md",
-    "Shell/命令.md",
-    "Shell/help.md",
-    "Shell/mv.md",
-    "Shell/ls.md",
-    "Home.md",
-    "bgcode.md",
-    "Tags",
-    "Shell/date.md",
     "Shell/编程.md",
+    "Shell/tar.md",
+    "Shell/命令.md",
+    "Shell/gzip.md",
+    "Shell/head.md",
+    "Shell/open.md",
+    "Shell/man.md",
+    "Shell/export.md",
+    "Shell/cut.md",
+    "Shell/cut~.md",
+    "Shell/find.md",
+    "Shell/sudo.md",
+    "Shell/curl.md",
+    "Shell/ping.md",
+    "Shell/ping~.md",
+    "Shell/tail.md",
+    "Shell/chmod.md",
+    "Shell/alias.md",
+    "Shell/ftp.md",
+    "Shell/ftp~.md",
+    "Shell/grep.md",
+    "Shell/<.md",
+    "Shell/touch.md",
+    "Shell/mkdir.md",
+    "Shell/mkdir~.md",
+    "Shell/rmdir.md",
+    "Tags",
     "Resource/Src/328.jpg",
     "Resource/Src",
     "Resource",
-    "GO/day1.md",
-    "Tags/Tags.md",
-    "Untitled.md",
-    "2024-04-25.md",
-    "Shell/cat.md",
-    "Shell/cd.md",
-    "Shell/pwd.md",
-    "note&file=Shell%2FVim.md",
-    "Shell/Vim.md",
-    "Shell/ls~.md",
-    "Shell/echo.md",
-    "未命名.md",
     "Application",
     "GO",
     "2024-04-22",
-    "Shell/。.md",
-    "2024-04-21/日记.md",
     "Shell",
     "未命名.canvas",
     "未命名 1.canvas",
-    "2024-04-24.md",
-    "2024-04-21",
-    "create a link.md",
-    "Welcome.md"
+    "2024-04-21"
   ]
 }
