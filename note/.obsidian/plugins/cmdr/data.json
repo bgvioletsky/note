@@ -8,7 +8,7 @@
     {
       "id": "obsidian-shellcommands:shell-command-0tpmvlunwj",
       "icon": "arrow-up-circle",
-      "name": "Shell commands: Execute: ec",
+      "name": "Shell commands: Execute: git push",
       "mode": "any"
     }
   ],

@@ -29,7 +29,7 @@
         "default": " git add .;git commit  -m \"提交时间 `date +%F\\n%T`\";git push"
       },
       "shells": {},
-      "alias": "ec",
+      "alias": "git push",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],
