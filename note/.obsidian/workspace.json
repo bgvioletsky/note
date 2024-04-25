@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "GO/day1.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "GO/day1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "GO/day1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "GO/day1.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "37877e9af6c5e65e",
   "lastOpenFiles": [
+    "Home.md",
     "Shell/编程.md",
     "Shell/tar.md",
     "Shell/命令.md",
@@ -192,7 +193,6 @@
     "Shell/touch.md",
     "Shell/mkdir.md",
     "Shell/mkdir~.md",
-    "Shell/rmdir.md",
     "Tags",
     "Resource/Src/328.jpg",
     "Resource/Src",
