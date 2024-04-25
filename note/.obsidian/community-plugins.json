@@ -1,3 +1,11 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-file-color",
+  "calendar",
+  "editing-toolbar",
+  "homepage",
+  "templater-obsidian",
+  "cmdr",
+  "colored-tags",
+  "make-md"
 ]
