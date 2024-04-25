@@ -10,6 +10,12 @@
       "icon": "arrow-up-circle",
       "name": "Shell commands: Execute: git push",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-fot8nkhv66",
+      "icon": "alarm-plus",
+      "name": "Shell commands: Execute: push",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],
