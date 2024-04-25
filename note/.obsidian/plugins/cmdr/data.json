@@ -13,8 +13,8 @@
     },
     {
       "id": "obsidian-shellcommands:shell-command-fot8nkhv66",
-      "icon": "alarm-plus",
-      "name": "Shell commands: Execute: push",
+      "icon": "arrow-down-circle",
+      "name": "Shell commands: Execute: git pull",
       "mode": "any"
     }
   ],

@@ -26,7 +26,7 @@
     {
       "id": "0tpmvlunwj",
       "platform_specific_commands": {
-        "default": " git add .;git commit  -m \"提交时间 `date +%F\\n%T`\""
+        "default": " git add .;git commit  -m \"提交时间 `date +%F  %T`\";git push"
       },
       "shells": {},
       "alias": "git push",
@@ -60,11 +60,13 @@
     {
       "id": "fot8nkhv66",
       "platform_specific_commands": {
-        "default": "git push"
+        "default": "git pull"
       },
-      "shells": {},
-      "alias": "push",
-      "icon": null,
+      "shells": {
+        "darwin": "/bin/zsh"
+      },
+      "alias": "git pull",
+      "icon": "align-vertical-space-around",
       "confirm_execution": false,
       "ignore_error_codes": [],
       "input_contents": {

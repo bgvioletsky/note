@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Shell/mv.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Shell/mv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Shell/mv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Shell/mv.md"
               }
             }
           },
@@ -155,22 +154,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": true,
       "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
+      "templates:插入模板": true,
       "command-palette:打开命令面板": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": true,
+      "cmdr:Shell commands: Execute: git push": false,
+      "cmdr:Shell commands: Execute: git pull": false
     }
   },
   "active": "37877e9af6c5e65e",
   "lastOpenFiles": [
-    "bgcode.md",
+    "Shell/mv~.md",
+    "Shell/命令.md",
+    "Shell/help.md",
+    "Shell/mv.md",
+    "Shell/ls.md",
     "Home.md",
+    "bgcode.md",
     "Tags",
     "Shell/date.md",
-    "Shell/命令.md",
     "Shell/编程.md",
     "Resource/Src/328.jpg",
     "Resource/Src",
@@ -181,11 +186,9 @@
     "2024-04-25.md",
     "Shell/cat.md",
     "Shell/cd.md",
-    "Shell/help.md",
     "Shell/pwd.md",
     "note&file=Shell%2FVim.md",
     "Shell/Vim.md",
-    "Shell/ls.md",
     "Shell/ls~.md",
     "Shell/echo.md",
     "未命名.md",
