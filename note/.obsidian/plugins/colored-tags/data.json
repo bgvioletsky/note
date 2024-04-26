@@ -12,7 +12,8 @@
   "knownTags": {
     "code": 1,
     "mit": 2,
-    "shell": 3
+    "shell": 3,
+    "go": 4
   },
   "_version": 3
 }

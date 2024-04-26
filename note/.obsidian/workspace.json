@@ -14,12 +14,37 @@
               "type": "markdown",
               "state": {
                 "file": "GO/day1.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2892ecd9b91182bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GO/day3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54ee276abd741062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GO/day4.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "45dfc9613c5bf423",
@@ -93,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GO/day1.md",
+                "file": "GO/day4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GO/day1.md",
+                "file": "GO/day4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GO/day1.md"
+                "file": "GO/day4.md"
               }
             }
           },
@@ -150,13 +176,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": true,
       "graph:查看关系图谱": true,
-      "daily-notes:打开/创建今天的日记": false,
+      "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": true,
       "command-palette:打开命令面板": false,
       "homepage:Open homepage": false,
@@ -165,9 +192,15 @@
       "cmdr:Shell commands: Execute: git pull": false
     }
   },
-  "active": "37877e9af6c5e65e",
+  "active": "54ee276abd741062",
   "lastOpenFiles": [
+    "GO/day3.md",
+    "GO/day4.md",
+    "GO/day2.md",
+    "2024-04-26.md",
+    "GO/day1.md",
     "Home.md",
+    "GO/.md",
     "Shell/编程.md",
     "Shell/tar.md",
     "Shell/命令.md",
@@ -187,12 +220,6 @@
     "Shell/chmod.md",
     "Shell/alias.md",
     "Shell/ftp.md",
-    "Shell/ftp~.md",
-    "Shell/grep.md",
-    "Shell/<.md",
-    "Shell/touch.md",
-    "Shell/mkdir.md",
-    "Shell/mkdir~.md",
     "Tags",
     "Resource/Src/328.jpg",
     "Resource/Src",
