@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6c543cc096dd20d5",
+        "id": "06bc3647f127beb3",
         "type": "tabs",
         "children": [
           {
-            "id": "37877e9af6c5e65e",
+            "id": "d0221c2f04d14cdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GO/day1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2892ecd9b91182bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GO/day3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54ee276abd741062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GO/day4.md",
+                "file": "GO/day5.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GO/day4.md",
+                "file": "GO/day5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GO/day4.md",
+                "file": "GO/day5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GO/day4.md"
+                "file": "GO/day5.md"
               }
             }
           },
@@ -192,14 +167,15 @@
       "cmdr:Shell commands: Execute: git pull": false
     }
   },
-  "active": "54ee276abd741062",
+  "active": "2fe2f08c50ea59c7",
   "lastOpenFiles": [
-    "GO/day3.md",
     "GO/day4.md",
+    "GO/day5.md",
+    "GO/day3.md",
     "GO/day2.md",
-    "2024-04-26.md",
     "GO/day1.md",
     "Home.md",
+    "2024-04-26.md",
     "GO/.md",
     "Shell/编程.md",
     "Shell/tar.md",
@@ -219,7 +195,6 @@
     "Shell/tail.md",
     "Shell/chmod.md",
     "Shell/alias.md",
-    "Shell/ftp.md",
     "Tags",
     "Resource/Src/328.jpg",
     "Resource/Src",
