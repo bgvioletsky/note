@@ -7,3 +7,4 @@ func Intn(n int) int{
 }
 num :=rand.Intn(10)
 ```
+ces

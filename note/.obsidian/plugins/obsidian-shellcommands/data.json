@@ -26,7 +26,7 @@
     {
       "id": "0tpmvlunwj",
       "platform_specific_commands": {
-        "default": " git add .;git commit  -m \"提交时间 `date +%F  %T`\";git push"
+        "default": " git add .;git commit  -m \"提交时间 `date +%F%\\ %T`\";git push"
       },
       "shells": {},
       "alias": "git push",
