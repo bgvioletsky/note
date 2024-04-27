@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "newFileLocation": "current",
-  "vimMode": true
+  "vimMode": true,
+  "useMarkdownLinks": true
 }

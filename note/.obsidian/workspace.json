@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "06bc3647f127beb3",
+        "id": "8d8257f3b32c72f8",
         "type": "tabs",
         "children": [
           {
-            "id": "d0221c2f04d14cdc",
+            "id": "f1d519fa11afb333",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "GO/day5.md",
-                "mode": "source",
-                "source": false
+                "path": "/"
               }
             }
           }
@@ -73,12 +71,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "45dfc9613c5bf423",
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GO/day5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GO/day5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GO/day5.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,25 +154,25 @@
       "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": true,
       "command-palette:打开命令面板": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": true,
       "cmdr:Shell commands: Execute: git push": false,
       "cmdr:Shell commands: Execute: git pull": false
     }
   },
-  "active": "2fe2f08c50ea59c7",
+  "active": "f1d519fa11afb333",
   "lastOpenFiles": [
     "GO/day4.md",
-    "GO/day5.md",
-    "GO/day3.md",
-    "GO/day2.md",
     "GO/day1.md",
+    "GO/day5.md",
+    "Shell/echo.md",
+    "Shell/命令.md",
+    "Shell/编程.md",
+    "GO/day2.md",
+    "GO/day3.md",
     "Home.md",
+    "未命名.md",
     "2024-04-26.md",
     "GO/.md",
-    "Shell/编程.md",
     "Shell/tar.md",
-    "Shell/命令.md",
     "Shell/gzip.md",
     "Shell/head.md",
     "Shell/open.md",
@@ -193,8 +186,6 @@
     "Shell/ping.md",
     "Shell/ping~.md",
     "Shell/tail.md",
-    "Shell/chmod.md",
-    "Shell/alias.md",
     "Tags",
     "Resource/Src/328.jpg",
     "Resource/Src",

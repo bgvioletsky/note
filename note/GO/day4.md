@@ -42,3 +42,14 @@ balance[4] = 50.0
 var salary float32 = balance[9]
 
 ```
+循环遍历数组
+```go
+da:=[5]float32{1000.0, 2.0, 3.4, 7.0, 50.0}
+for i:=0;i<len(da);i++{
+	fmt.Print(da[i])
+}
+for i ,da :=range da{
+fmt.Print(da)
+fmt.Print(i)
+}
+```
