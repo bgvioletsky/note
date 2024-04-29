@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/atom.md",
+                "file": "diary/vidhub食用步骤.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/atom.md",
+                "file": "diary/vidhub食用步骤.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/atom.md",
+                "file": "diary/vidhub食用步骤.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/atom.md"
+                "file": "diary/vidhub食用步骤.md"
               }
             }
           },
@@ -177,15 +177,15 @@
       "cmdr:Shell commands: Execute: git pull": false
     }
   },
-  "active": "2fe2f08c50ea59c7",
+  "active": "50e0af6f1a1fdb31",
   "lastOpenFiles": [
+    "GO/Go常见定义.md",
+    "GO/Go初识.md",
     "GO/未命名.md",
-    "GO/堆栈.md",
-    "GO/day2.md",
     "template/atom.md",
+    "GO/堆栈.md",
     "GO/day3.md",
     "template",
-    "GO/day1.md",
     "GO/go web.md",
     "GO/day5.md",
     "GO/day4.md",
