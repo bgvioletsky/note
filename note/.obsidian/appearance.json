@@ -3,5 +3,6 @@
   "cssTheme": "Minimal",
   "enabledCssSnippets": [],
   "theme": "moonstone",
-  "translucency": false
+  "translucency": false,
+  "nativeMenus": false
 }

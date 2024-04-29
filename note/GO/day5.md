@@ -18,15 +18,29 @@ import "fmt"
   
 func main() {  
    var a int = 10    
-  
+    fmt.Println(bg(a))
    fmt.Printf("变量的地址: %x\n", &a  )  
 }  
+func bg(a int) int {
+	var b int =12
+	x:= &b
+	*x=a
+	return b
+}
 ```
 
 执行以上代码输出结果为：
 ```go
 变量的地址: 20818a220
 ```
+**创建指针的另一种方式new()函数**
+```go
+//new(类型)
+	str:=new(string)
+	*str="bgcode"
+	fmt.Print(*str)
+```
+
 # Go 语言结构体
 ## 定义结构体
 

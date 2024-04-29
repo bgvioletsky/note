@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8d8257f3b32c72f8",
+        "id": "40484179d0ee29ce",
         "type": "tabs",
         "children": [
           {
-            "id": "f1d519fa11afb333",
+            "id": "c32707c0f3079606",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "GO/堆栈.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#code",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,12 +93,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "GO/堆栈.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -108,7 +110,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "file": "GO/堆栈.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -129,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GO/堆栈.md"
+              }
             }
           },
           {
@@ -158,16 +163,27 @@
       "cmdr:Shell commands: Execute: git pull": false
     }
   },
-  "active": "f1d519fa11afb333",
+  "active": "5d10dfce403b3152",
   "lastOpenFiles": [
-    "GO/day4.md",
-    "GO/day1.md",
     "GO/day5.md",
+    "GO/堆栈.md",
+    "GO/day4.md",
+    "GO/day3.md",
+    "GO/day2.md",
+    "GO/day1.md",
+    "GO/go web.md",
+    "css/css.md",
+    "css",
+    "html/html.md",
+    "html",
+    "node.js/node.js.md",
+    "node.js",
+    "Electron/Electron.md",
+    "Electron",
+    "Untitled.md",
     "Shell/echo.md",
     "Shell/命令.md",
     "Shell/编程.md",
-    "GO/day2.md",
-    "GO/day3.md",
     "Home.md",
     "未命名.md",
     "2024-04-26.md",
@@ -179,13 +195,6 @@
     "Shell/man.md",
     "Shell/export.md",
     "Shell/cut.md",
-    "Shell/cut~.md",
-    "Shell/find.md",
-    "Shell/sudo.md",
-    "Shell/curl.md",
-    "Shell/ping.md",
-    "Shell/ping~.md",
-    "Shell/tail.md",
     "Tags",
     "Resource/Src/328.jpg",
     "Resource/Src",
@@ -193,9 +202,7 @@
     "Application",
     "GO",
     "2024-04-22",
-    "Shell",
     "未命名.canvas",
-    "未命名 1.canvas",
-    "2024-04-21"
+    "未命名 1.canvas"
   ]
 }
