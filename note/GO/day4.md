@@ -1,3 +1,6 @@
+---
+sticker: lucide//atom
+---
 ## 构建块
 ### 函数
 ```go

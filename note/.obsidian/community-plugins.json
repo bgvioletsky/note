@@ -4,6 +4,12 @@
   "editing-toolbar",
   "cmdr",
   "colored-tags",
+  "obsidian-shellcommands",
+  "obsidian-icon-folder",
   "make-md",
-  "obsidian-shellcommands"
+  "obsidian-tasks-plugin",
+  "obsidian-mind-map",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-image-auto-upload-plugin",
+  "nldates-obsidian"
 ]

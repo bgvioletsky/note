@@ -1,6 +1,6 @@
 ---
-banner: Resource/Src/328.jpg
-sticker: 🐹
+banner: https://cdn.jsdelivr.net/gh/bgvioletsky/ImgBlog/Typora/202404300013299.jpg
+sticker: lucide//atom
 tags:
   - code
   - go

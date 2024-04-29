@@ -39,6 +39,11 @@
   "expandedSpaces": [
     "//Application",
     "/",
+    "//GO",
+    "//GO",
+    "//GO",
+    "//Resource",
+    "//Resource/Resource/Src",
     "//GO"
   ],
   "expandFolderOnClick": true,
@@ -58,7 +63,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": false,
+  "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",

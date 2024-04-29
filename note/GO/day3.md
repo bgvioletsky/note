@@ -1,3 +1,6 @@
+---
+sticker: lucide//atom
+---
 ## 类型
 
 #### 浮点数
