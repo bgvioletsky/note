@@ -13,7 +13,8 @@
     "code": 1,
     "mit": 2,
     "shell": 3,
-    "go": 4
+    "go": 4,
+    "excalidraw": 5
   },
   "_version": 3
 }

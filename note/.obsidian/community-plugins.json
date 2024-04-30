@@ -1,15 +1,14 @@
 [
-  "obsidian-file-color",
   "calendar",
-  "editing-toolbar",
-  "cmdr",
   "colored-tags",
-  "obsidian-shellcommands",
+  "cmdr",
+  "editing-toolbar",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-excalidraw-plugin",
+  "obsidian-file-color",
   "obsidian-icon-folder",
   "make-md",
-  "obsidian-tasks-plugin",
   "obsidian-mind-map",
-  "cm-editor-syntax-highlight-obsidian",
-  "obsidian-image-auto-upload-plugin",
-  "nldates-obsidian"
+  "obsidian-shellcommands",
+  "obsidian-tasks-plugin"
 ]

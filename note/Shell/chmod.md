@@ -1,3 +1,11 @@
+---
+sticker: lucide//atom
+tags:
+  - code
+  - go
+  - shell
+  - mit
+---
 ### 语法
 
 ```bash

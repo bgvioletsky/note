@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "96d8ae905b8e0158",
+        "id": "57d839f0fe83e632",
         "type": "tabs",
         "children": [
           {
-            "id": "9332ac992024e316",
+            "id": "54fce4d3b64a97f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GO/堆栈.md",
+                "file": "未命名.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50e0af6f1a1fdb31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "diary/vidhub食用步骤.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,14 +66,15 @@
             }
           },
           {
-            "id": "85a37015c5330b9a",
+            "id": "b0807abf5ed53895",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/vidhub食用步骤.md",
+                "file": "未命名.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/vidhub食用步骤.md",
+                "file": "未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,12 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/vidhub食用步骤.md"
+                "file": "未命名.md"
               }
             }
           },
           {
-            "id": "5d10dfce403b3152",
+            "id": "11a4e1a42ed71356",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -159,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,48 +162,52 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "cmdr:Shell commands: Execute: git push": false,
-      "cmdr:Shell commands: Execute: git pull": false
+      "cmdr:Shell commands: Execute: git pull": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "50e0af6f1a1fdb31",
+  "active": "54fce4d3b64a97f7",
   "lastOpenFiles": [
+    "6485653b0a03a76b43df25d950bb783b.png",
+    "未命名.md",
+    "().md",
+    "Electron/Electron.md",
+    "Excalidraw/Drawing 2024-04-30 21.15.36.excalidraw.md",
+    "GO/GO堆栈.md",
+    "GO/未命名.md",
+    "test/未命名.md",
+    "test/4.png",
+    "test/说.md",
+    "test/().md",
+    "2.jpg",
+    "test.png",
+    "GO/GO函数及数组.md",
+    "test",
+    "GO/().md",
+    "Excalidraw/Drawing 2024-04-30 21.22.14.excalidraw.md",
+    "Excalidraw",
+    "GitHub action/未命名.md",
+    "GitHub action",
+    "GO/GO指针.md",
+    "GO/GO web.md",
+    "GO/未命名 2.md",
+    "GO/未命名 3.md",
+    "GO/未命名 1.md",
+    "GO/Go数据类型.md",
+    "Shell/chmod.md",
+    "Shell/命令.md",
+    "Shell/编程.md",
+    "diary/vidhub食用步骤.md",
     "GO/Go常见定义.md",
     "GO/Go初识.md",
-    "GO/未命名.md",
-    "template/atom.md",
-    "GO/堆栈.md",
-    "GO/day3.md",
     "template",
-    "GO/go web.md",
-    "GO/day5.md",
-    "GO/day4.md",
     "Resource/Src/328.jpg",
-    "css/css.md",
-    "Electron/Electron.md",
-    "html/html.md",
-    "diary/阅读设置.md",
-    "2024-04-29.md",
-    "2024-04-30.md",
-    "diary/vidhub食用步骤.md",
-    "diary/QQ辅助插件.md",
-    "diary/bglhcode@icloud.com.md",
-    "diary/Node.js—切图.md",
-    "diary/注册美区AppleID.md",
-    "diary/正则.md",
-    "diary/海阔世界规则编写.md",
-    "diary/Mac 下的定时任务工具：Launchctl.md",
     "diary",
     "未命名文件夹",
     "css",
     "html",
-    "node.js/node.js.md",
     "node.js",
     "Electron",
-    "Untitled.md",
-    "Shell/echo.md",
-    "Tags",
-    "Resource/Src",
-    "Resource",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

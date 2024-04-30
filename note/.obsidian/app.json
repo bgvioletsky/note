@@ -1,11 +1,14 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "newFileLocation": "current",
-  "vimMode": true,
-  "useMarkdownLinks": false,
+  "vimMode": false,
+  "useMarkdownLinks": true,
   "strictLineBreaks": true,
   "showLineNumber": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "livePreview": false
 }
