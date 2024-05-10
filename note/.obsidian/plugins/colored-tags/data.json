@@ -14,7 +14,12 @@
     "mit": 2,
     "shell": 3,
     "go": 4,
-    "excalidraw": 5
+    "excalidraw": 5,
+    "learn": 6,
+    "study": 7,
+    "exam": 8,
+    "diary": 9,
+    "life": 10
   },
   "_version": 3
 }

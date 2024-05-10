@@ -1,4 +1,6 @@
 {
   "format": "",
-  "autorun": false
+  "autorun": false,
+  "template": "template/日记",
+  "folder": "diary"
 }

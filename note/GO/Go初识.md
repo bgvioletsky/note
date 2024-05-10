@@ -5,6 +5,7 @@ tags:
   - code
   - go
 ---
+
 ## Go Hello World 实例
 
 Go 语言的基础组成有以下几个部分：

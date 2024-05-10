@@ -3,12 +3,10 @@
   "colored-tags",
   "cmdr",
   "editing-toolbar",
-  "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-file-color",
   "obsidian-icon-folder",
   "make-md",
-  "obsidian-mind-map",
   "obsidian-shellcommands",
-  "obsidian-tasks-plugin"
+  "obsidian-image-auto-upload-plugin"
 ]

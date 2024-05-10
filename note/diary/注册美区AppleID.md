@@ -1,4 +1,3 @@
-![注册美区AppleID](https://cdn.jsdelivr.net/gh/bgvioletsky/ImgBlog/Typora/v2-929cf0013551922bc4fe9dc0fd531532_1440w-20240320200740164.png)
 
 # 注册美区AppleID
 
