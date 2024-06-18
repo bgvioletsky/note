@@ -19,7 +19,12 @@
     "study": 7,
     "exam": 8,
     "diary": 9,
-    "life": 10
+    "life": 10,
+    "GitHub": 11,
+    "action": 12,
+    "git": 13,
+    "资料分析": 14,
+    "推理判断": 15
   },
   "_version": 3
 }

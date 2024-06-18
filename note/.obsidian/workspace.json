@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d68f243a7a67e179",
+        "id": "bb7b20743c3b28e2",
         "type": "tabs",
         "children": [
           {
-            "id": "2139c766a10b3e32",
+            "id": "6c87ca54899ddafa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/日记.md",
+                "file": "考公/判断推理/1、图形推理.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/日记.md",
+                "file": "考公/判断推理/1、图形推理.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/日记.md",
+                "file": "考公/判断推理/1、图形推理.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/日记.md"
+                "file": "考公/判断推理/1、图形推理.md"
               }
             }
           },
@@ -155,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -173,36 +172,41 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2139c766a10b3e32",
+  "active": "6c87ca54899ddafa",
   "lastOpenFiles": [
-    "diary/2024-05-13.md",
-    "template/日记.md",
-    "diary/2024-05-10.md",
-    "diary/日记.md",
-    "diary/未命名.md",
-    "Vault.md",
-    "2024-05-11.md",
-    "diary/Node.js—切图.md",
-    "diary/vidhub食用步骤.md",
-    "diary/Mac 下的定时任务工具：Launchctl.md",
-    "exam/解剖学/解剖学<1.1>.md",
-    "diary/海阔世界规则编写.md",
-    "exam/解剖学/解剖学<2.1>.md",
-    "exam/1.解剖学.md",
-    "exam/解剖学/解剖学<1.2>.md",
-    "exam/灰质、白质、皮质、髓质、神经核、神经节、神经束和网状结构的概念.md",
-    "exam/解剖学/解剖学<2.5>.md",
+    "考公/判断推理/4、逻辑推理.md",
+    "exam/行测.md",
     "exam/大纲.md",
+    "考公/判断推理/1、图形推理.md",
+    "考公/判断推理/3、定义判断.md",
+    "考公/判断推理/2、类比推理.md",
+    "考公/资料分析/1、统计术语.md",
+    "考公/资料分析/2、结构阅读法.md",
+    "考公/资料分析/3、速算技巧.md",
+    "考公/判断推理",
+    "考公/资料分析/Pasted image 20240618133948.png",
+    "考公/资料分析",
+    "考公",
+    "GitHub action/简介.md",
+    "GO/GO函数及数组.md",
+    "GO/Go常见定义.md",
+    "GO/Go初识.md",
+    "git/git安装.md",
+    "Shell/chmod.md",
+    "git",
+    "GO/Go读取文件.md",
+    "GO/GO指针.md",
+    "GO/Go数据类型.md",
+    "GO/GO web.md",
+    "GO/Untitled.md",
+    "GO/GO堆栈.md",
+    "Shell/命令.md",
+    "exam/1.解剖学.md",
     "exam/解剖学/解剖学<2.3>.md",
-    "解剖学/解剖学.md",
-    "exam/解剖学/解剖学<2.4>.md",
+    "exam/解剖学/解剖学<2.2>.md",
+    "exam/解剖学/解剖学<2.1>.md",
     "解剖学",
     "exam/解剖学",
-    "exam/解剖学/解剖学<2.2>.md",
-    "GO/GO堆栈.md",
-    "GO/未命名 1.md",
-    "GO/未命名.md",
-    "exam/人体的分部与器官系统.md",
     "Excalidraw/Pasted Image 20240504001522_540.png",
     "exam",
     "test.png",
@@ -212,11 +216,7 @@
     "test",
     "Excalidraw",
     "GitHub action",
-    "template",
     "Resource/Src/328.jpg",
-    "diary",
-    "未命名文件夹",
-    "css",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

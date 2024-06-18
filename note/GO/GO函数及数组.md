@@ -12,6 +12,9 @@ func Intn(n Circle) Circle{
 	s:=2
 	return s*n+2*n
 }
+//Intn函数名
+//n Circle 传入参数类型与传入参数名
+//Circle 返回类型
 num :=rand.Intn(10)
 ```
 #### 匿名函数
