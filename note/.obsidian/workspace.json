@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考公/判断推理/3、定义判断.md",
+                "file": "考公/判断推理/4、逻辑推理.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考公/判断推理/3、定义判断.md",
+                "file": "考公/判断推理/4、逻辑推理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考公/判断推理/3、定义判断.md",
+                "file": "考公/判断推理/4、逻辑推理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考公/判断推理/3、定义判断.md"
+                "file": "考公/判断推理/4、逻辑推理.md"
               }
             }
           },
@@ -174,24 +174,27 @@
   },
   "active": "0b59d14f7f3eab22",
   "lastOpenFiles": [
+    "diary/2024-05-10.md",
+    "考公/判断推理/4、逻辑推理.md",
+    "diary/2024-06-18.md",
+    "git/git安装.md",
+    "template/日记.md",
+    "template/atom.md",
+    "Vault.md",
+    "考公/判断推理/3、定义判断.md",
     "考公/判断推理/2、类比推理.md",
     "考公/判断推理/1、图形推理.md",
-    "考公/判断推理/3、定义判断.md",
-    "考公/判断推理/4、逻辑推理.md",
     "考公/资料分析/3、速算技巧.md",
     "考公/资料分析/2、结构阅读法.md",
     "考公/资料分析/1、统计术语.md",
     "考公/资料分析",
     "考公/判断推理",
     "考公",
-    "template/日记.md",
-    "template/atom.md",
     "template",
     "node.js/node.js.md",
     "node.js",
     "html/html.md",
     "html",
-    "git/git安装.md",
     "git",
     "exam/解剖学/解剖学<2.5>.md",
     "exam/解剖学/解剖学<2.4>.md",
@@ -205,9 +208,6 @@
     "exam/大纲.md",
     "exam/9.药理学.md",
     "exam/8.医学免疫学.md",
-    "exam/7.人体寄生虫学.md",
-    "exam/6.医学微生物学.md",
-    "exam/5.病理生理学.md",
     "exam",
     "diary",
     "Excalidraw/Pasted Image 20240504001522_540.png",
