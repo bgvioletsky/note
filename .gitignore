@@ -1,6 +1,6 @@
-hooks/
-info/
+./hooks
 note/.makemd/
 note/.obsidian/
 note/.space/
 note/.trash/
+./info
