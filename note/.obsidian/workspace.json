@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb7b20743c3b28e2",
+        "id": "44459413d56572a6",
         "type": "tabs",
         "children": [
           {
-            "id": "6c87ca54899ddafa",
+            "id": "0b59d14f7f3eab22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,15 +66,14 @@
             }
           },
           {
-            "id": "b0807abf5ed53895",
+            "id": "6030f1aaf3554a92",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,12 +94,12 @@
               "type": "backlink",
               "state": {
                 "file": "考公/判断推理/1、图形推理.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -112,7 +111,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "考公/判断推理/1、图形推理.md",
-                "linksCollapsed": true,
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -139,84 +138,73 @@
             }
           },
           {
-            "id": "11a4e1a42ed71356",
+            "id": "5d10dfce403b3152",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "03872e4042be0b72",
-            "type": "leaf",
-            "state": {
-              "type": "make-context-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": true,
-      "graph:查看关系图谱": true,
-      "daily-notes:打开/创建今天的日记": true,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
       "cmdr:Shell commands: Execute: git push": false,
-      "cmdr:Shell commands: Execute: git pull": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "cmdr:Shell commands: Execute: git pull": false
     }
   },
-  "active": "6c87ca54899ddafa",
+  "active": "0b59d14f7f3eab22",
   "lastOpenFiles": [
-    "考公/判断推理/4、逻辑推理.md",
-    "exam/行测.md",
-    "exam/大纲.md",
-    "考公/判断推理/1、图形推理.md",
-    "考公/判断推理/3、定义判断.md",
     "考公/判断推理/2、类比推理.md",
-    "考公/资料分析/1、统计术语.md",
-    "考公/资料分析/2、结构阅读法.md",
+    "考公/判断推理/3、定义判断.md",
+    "考公/判断推理/4、逻辑推理.md",
     "考公/资料分析/3、速算技巧.md",
-    "考公/判断推理",
-    "考公/资料分析/Pasted image 20240618133948.png",
+    "考公/资料分析/2、结构阅读法.md",
+    "考公/资料分析/1、统计术语.md",
+    "考公/判断推理/1、图形推理.md",
     "考公/资料分析",
+    "考公/判断推理",
     "考公",
-    "GitHub action/简介.md",
-    "GO/GO函数及数组.md",
-    "GO/Go常见定义.md",
-    "GO/Go初识.md",
+    "template/日记.md",
+    "template/atom.md",
+    "template",
+    "node.js/node.js.md",
+    "node.js",
+    "html/html.md",
+    "html",
     "git/git安装.md",
-    "Shell/chmod.md",
     "git",
-    "GO/Go读取文件.md",
-    "GO/GO指针.md",
-    "GO/Go数据类型.md",
-    "GO/GO web.md",
-    "GO/Untitled.md",
-    "GO/GO堆栈.md",
-    "Shell/命令.md",
-    "exam/1.解剖学.md",
+    "exam/解剖学/解剖学<2.5>.md",
+    "exam/解剖学/解剖学<2.4>.md",
     "exam/解剖学/解剖学<2.3>.md",
     "exam/解剖学/解剖学<2.2>.md",
     "exam/解剖学/解剖学<2.1>.md",
-    "解剖学",
+    "exam/解剖学/解剖学<1.2>.md",
+    "exam/解剖学/解剖学<1.1>.md",
     "exam/解剖学",
-    "Excalidraw/Pasted Image 20240504001522_540.png",
+    "exam/行测.md",
+    "exam/大纲.md",
+    "exam/9.药理学.md",
+    "exam/8.医学免疫学.md",
+    "exam/7.人体寄生虫学.md",
+    "exam/6.医学微生物学.md",
+    "exam/5.病理生理学.md",
     "exam",
-    "test.png",
-    "6485653b0a03a76b43df25d950bb783b.png",
-    "test/4.png",
-    "2.jpg",
-    "test",
-    "Excalidraw",
-    "GitHub action",
+    "diary",
+    "Excalidraw/Pasted Image 20240504001522_540.png",
     "Resource/Src/328.jpg",
     "未命名.canvas",
     "未命名 1.canvas"
