@@ -46,7 +46,6 @@
     "/exam/解剖学",
     "Shell",
     "GO",
-    "GitHub action",
     "/考公/资料分析",
     "exam",
     "template",
@@ -57,8 +56,9 @@
     "//node.js",
     "//html",
     "//diary",
-    "diary",
-    "/"
+    "GitHub action",
+    "/",
+    "diary"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

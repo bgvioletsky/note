@@ -11,9 +11,11 @@
             "id": "e53f15967b553233",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "diary"
+                "file": "diary/黑苹果dmg创建.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 363.50312423706055
+    "width": 288.5
   },
   "right": {
     "id": "45dfc9613c5bf423",
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "diary/黑苹果dmg创建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "diary/黑苹果dmg创建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "diary/黑苹果dmg创建.md"
+              }
             }
           },
           {
@@ -153,12 +158,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -170,6 +173,10 @@
   },
   "active": "e53f15967b553233",
   "lastOpenFiles": [
+    "Vault.md",
+    "GitHub action/简介.md",
+    "diary/黑苹果dmg创建.md",
+    "Tags",
     "diary/海阔世界规则编写.md",
     "diary/阅读设置.md",
     "diary/vidhub食用步骤.md",
@@ -181,7 +188,6 @@
     "diary/2024-05-10.md",
     "Excalidraw/Drawing 2024-07-08 08.43.20.excalidraw.md",
     "Excalidraw/Drawing 2024-07-08 08.47.49.excalidraw.md",
-    "Vault.md",
     "考公/判断推理/1、图形推理.md",
     "考公/判断推理/2、类比推理.md",
     "考公/判断推理/3、定义判断.md",
@@ -199,13 +205,10 @@
     "template",
     "node.js/node.js.md",
     "node.js",
-    "html/html.md",
     "html",
     "git",
-    "exam/解剖学/解剖学<2.5>.md",
     "exam/解剖学",
     "exam",
-    "diary",
     "Excalidraw/Pasted Image 20240504001522_540.png",
     "Resource/Src/328.jpg",
     "未命名.canvas",
