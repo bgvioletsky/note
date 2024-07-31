@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/黑苹果dmg创建.md",
-                "mode": "source",
+                "file": "sql/默默记单词单词导出.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/黑苹果dmg创建.md",
+                "file": "sql/默默记单词单词导出.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/黑苹果dmg创建.md",
+                "file": "sql/默默记单词单词导出.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/黑苹果dmg创建.md"
+                "file": "sql/默默记单词单词导出.md"
               }
             }
           },
@@ -171,21 +171,24 @@
       "cmdr:Shell commands: Execute: git pull": false
     }
   },
-  "active": "e53f15967b553233",
+  "active": "2fe2f08c50ea59c7",
   "lastOpenFiles": [
-    "Vault.md",
+    "Shell/Vim.md",
+    "sql/默默记单词单词导出.md",
+    "sql",
+    "diary/2024-05-10.md",
+    "diary/Mac 下的定时任务工具：Launchctl.md",
+    "diary/Node.js—切图.md",
+    "diary/QQ辅助插件.md",
+    "diary/阅读设置.md",
+    "diary/海阔世界规则编写.md",
+    "diary/注册美区AppleID.md",
+    "diary/幽默.md",
     "GitHub action/简介.md",
     "diary/黑苹果dmg创建.md",
+    "Vault.md",
     "Tags",
-    "diary/海阔世界规则编写.md",
-    "diary/阅读设置.md",
     "diary/vidhub食用步骤.md",
-    "diary/注册美区AppleID.md",
-    "diary/Node.js—切图.md",
-    "diary/幽默.md",
-    "diary/Mac 下的定时任务工具：Launchctl.md",
-    "diary/QQ辅助插件.md",
-    "diary/2024-05-10.md",
     "Excalidraw/Drawing 2024-07-08 08.43.20.excalidraw.md",
     "Excalidraw/Drawing 2024-07-08 08.47.49.excalidraw.md",
     "考公/判断推理/1、图形推理.md",
@@ -198,17 +201,14 @@
     "template/atom.md",
     "考公/资料分析/3、速算技巧.md",
     "考公/资料分析/2、结构阅读法.md",
-    "考公/资料分析/1、统计术语.md",
     "考公/资料分析",
     "考公/判断推理",
     "考公",
     "template",
-    "node.js/node.js.md",
     "node.js",
     "html",
     "git",
     "exam/解剖学",
-    "exam",
     "Excalidraw/Pasted Image 20240504001522_540.png",
     "Resource/Src/328.jpg",
     "未命名.canvas",

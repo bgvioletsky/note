@@ -44,7 +44,6 @@
     "解剖学",
     "//解剖学",
     "/exam/解剖学",
-    "Shell",
     "GO",
     "/考公/资料分析",
     "exam",
@@ -55,10 +54,11 @@
     "/考公/判断推理",
     "//node.js",
     "//html",
-    "//diary",
     "GitHub action",
+    "diary",
+    "Shell",
     "/",
-    "diary"
+    "sql"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
